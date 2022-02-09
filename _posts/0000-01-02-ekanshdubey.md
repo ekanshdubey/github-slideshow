@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-I'll Be Back - Terminator
+Welcome
 Use the left arrow to go back!
